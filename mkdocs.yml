@@ -1,0 +1,62 @@
+site_name: "The Unofficial Avatar Fansite!"
+copyright: ""
+theme:
+  name: material
+  favicon: logo/FAS_Logo.png
+  logo: logo/FAS_Logo.png
+  palette:
+    scheme: fans
+  language: en
+  features:
+    navigation.indexes
+    navigation.instant
+    navigation.instant.progress
+    navigation.tabs
+    navigation.tabs.sticky
+    navigation.top
+  custom_dir: overrides
+plugins:
+  - blog:
+      blog_dir: blog
+      post_dir: blog/posts
+      authors_file: "{blog}/.authors.yml"
+  - search
+  - tags
+  - glightbox
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      options:
+        custom_icons:
+          - overrides/.icons
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/tgCDP8vj
+extra_css:
+  - stylesheets/extra.css
+#extra_javascript:
+#  - javascripts/extra.js
+
+nav:
+  - Home: index.md
+  - Blog:
+    - blog/index.md
+  - Projects:
+    - projects/index.md
+  - About:
+    - about/index.md
