@@ -22,7 +22,6 @@ plugins:
       authors_file: "{blog}/.authors.yml"
   - search
   - tags
-  - glightbox
 markdown_extensions:
   - admonition
   - attr_list
