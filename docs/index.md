@@ -16,7 +16,7 @@ The unofficial fansite for all things Avatar!
 
 <div class="grid cards" markdown>
 
--   :sparkles:{ .lg .middle } __NEW__ - "The Saga of Okino" (Fan Novel)
+-   :sparkles: __NEW__{ .lg .middle } <br>"The Saga of Okino" (Fan Novel)
 
     ---
 
