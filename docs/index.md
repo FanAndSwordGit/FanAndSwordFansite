@@ -20,8 +20,16 @@ The unofficial fansite for all things Avatar!
 
     ---
 
-    Landing page, preface, and Chapter 1 have all been published!
+    Landing page, preface, and Chapter 1 published!
 
-    [Read More...](projects/fan-novel/index.md)
+    [__Read More...__](projects/fan-novel/index.md)
+
+-   :sparkles: __NEW__{ .lg .middle } <br>Blog Post
+
+    ---
+
+    Dev Update: "Limited Technical Tests"
+
+    [__Read More...__](blog/posts/news-dev-phase.md)
 
 </div>
