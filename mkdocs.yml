@@ -8,6 +8,7 @@ theme:
     scheme: fans
   language: en
   features:
+    navigation.footer
     navigation.indexes
     navigation.instant
     navigation.instant.progress
@@ -22,6 +23,7 @@ plugins:
       authors_file: "{blog}/.authors.yml"
   - search
   - tags
+  - badges
 markdown_extensions:
   - admonition
   - attr_list
@@ -57,5 +59,9 @@ nav:
     - blog/index.md
   - Projects:
     - projects/index.md
+    - Fan Novel:
+      - projects/fan-novel/index.md
+      - projects/fan-novel/preface.md
+      - projects/fan-novel/chapter-1.md
   - About:
     - about/index.md

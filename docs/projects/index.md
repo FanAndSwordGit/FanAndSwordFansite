@@ -2,6 +2,7 @@
 hide:
   - navigation
   - toc
+  - footer
 icon: fontawesome/solid/leaf
 ---
 
@@ -21,7 +22,7 @@ This is a showcase of personal Avatar-inspired projects, all home-grown! :smile:
 
     Journey far into the past with Okino, a young Fire Nation boy born into a lineage of dragon caretakers. Now on the unexpected path of Avatarhood, his unusual dependence on animal companions to bend the elements raises doubts on his ability to fulfill the Avatar's sacred duty.
 
-    <b>[:octicons-arrow-right-24: Read On!](#)</b>
+    <b>[:octicons-arrow-right-24: Read On!](fan-novel/index.md)</b>
 
 -   :video_game:{ .lg .middle } __The Digital Cardbending Game__
 
@@ -35,9 +36,7 @@ This is a showcase of personal Avatar-inspired projects, all home-grown! :smile:
 
     ---
 
-    Lego & Avatar - it's the perfect combination! While Lego technically made 4 limited ATLA sets back in ___, it unfortunately never caught on at the right time.
-
-    These custom Lego builds (also known as MOCs) reimagine iconic scenes, landmarks, and more from the world of Avatar!
+    Lego & Avatar - it's the perfect combination! These custom Lego builds (also known as MOCs) reimagine iconic scenes, landmarks, and more from the world of Avatar!
 
     <i>(Nothing here yet)</i>
 

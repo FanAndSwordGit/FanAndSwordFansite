@@ -1,4 +1,6 @@
 ---
+hide:
+  - footer
 icon: fontawesome/solid/pen
 ---
 
