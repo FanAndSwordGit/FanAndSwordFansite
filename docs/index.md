@@ -6,7 +6,7 @@ hide:
 icon: fontawesome/solid/house-chimney
 ---
 
-# Welcome to Fan & Sword!
+# :crossed_swords: Welcome to Fan & Sword!
 
 The unofficial fansite for all things Avatar!
 

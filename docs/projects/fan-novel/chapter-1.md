@@ -31,6 +31,7 @@ The sun was beginning to set in the distance - a somber reminder of the passing 
 &nbsp;&nbsp;&nbsp;&nbsp;Pleased with this exchange, Teju pulled out a chiseled reed pipe and blew into it wholeheartedly, as if he were an air nomad at heart. It was undoubtedly a small but effective instrument as the largest of the dragons soared down from above. The ground quaked on impact, dust flying into the surrounding rows of crops. Okino had to quickly rustle his clothing ensemble, consisting of baggy khao garments with a golden-threaded krama draped over his shoulders. The only other time he wore this outfit was the day his family gifted a dragon to the Firelord.
 
 &nbsp;&nbsp;&nbsp;&nbsp;<i>Mother will not be pleased if this outfit gets…</i>, thought Okino, his fears suddenly interrupted.
+
 &nbsp;&nbsp;&nbsp;&nbsp;At the command of the sages, the dragons hurled large billows of colorful flames overhead. 
 
 The resulting blaze grew in intensity, sparks flying in every direction.
@@ -85,4 +86,4 @@ The resulting blaze grew in intensity, sparks flying in every direction.
 
 ### Last Reviewed
 
-|:pencil:|10/27/2024|
+|:pencil:|10/28/2024|
