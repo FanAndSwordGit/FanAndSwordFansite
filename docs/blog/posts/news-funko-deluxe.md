@@ -21,13 +21,16 @@ hide:
 
 The Avatar line of Funko figures continues to be a popular collectible for us Avatar fans!
 
-It's no suprise that more are on the way - this time with a "Deluxe" label :smile:
+It's no surprise that more are on the way - this time with a "Deluxe" label :smile:
 
 This was previously rumored roughly 8 months ago, so it's exciting to see some images now!
 
 ## Box Image
 
-![Avatar Funko Deluxe Teaser 1](../assets/funko/funko-deluxe-teaser1.png)
+<figure markdown="span">
+    ![Avatar Funko Deluxe Teaser 1](../assets/funko/funko-deluxe-teaser1.png)
+    <figcaption>Neat box visual for these new Avatar Deluxe Funko figures!</figcaption>
+</figure>
 
 Here we can see the four different figures
 
@@ -36,7 +39,7 @@ Here we can see the four different figures
 - Figure 1808: Toph (Deluxe)
 - Figure 1809: Zuko (Deluxe)
 
-The theming is consistent with other Avatar merchandise with the blue/brown parchment look and elemental symbols forming a mosaic-esque background.
+The branding is consistent with other Avatar merchandise with the blue/brown parchment look and elemental symbols forming a mosaic-esque background.
 
 Most notably though are the new bending symbols styled after the respective elements behind each figure. It's a unique way to make these figures feel "deluxe"
 
@@ -44,9 +47,12 @@ I do hope the pricing is fairly reasonable on these. At the very least, they sho
 
 ## Figure Image
 
-![Avatar Funko Deluxe Teaser 1](../assets/funko/funko-deluxe-teaser2.png)
+<figure markdown="span">
+    ![Avatar Funko Deluxe Teaser 1](../assets/funko/funko-deluxe-teaser2.png)
+    <figcaption>Another look at the characters and their stands up close!</figcaption>
+</figure>
 
-And here is a closer look at the figures themselves!
+And here is a more detailed picture of the figures!
 
 If I had to pick a favorite, I would go with Zuko. His outfit certainly looks more detailed, plus his fire symbol has a nice gradient to it that actually feels like fire.
 
