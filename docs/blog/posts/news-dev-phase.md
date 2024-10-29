@@ -60,8 +60,4 @@ The following is worth noting:
 - There does not appear to be any sort of enrollment process. It's either available in the app store for a limited time or not.
 - This testing has already begun for certain groups, although it's not clear who/where yet.
 
-## Summary
-
-Be on the lookout for future development news here and on official platforms:
-
 Thanks for reading!
