@@ -28,8 +28,8 @@ The unofficial fansite for all things Avatar!
 
     ---
 
-    Dev Update: "Limited Technical Tests"
+    Avatar Deluxe Funko Figures
 
-    [__Read More...__](blog/posts/news-dev-phase.md)
+    [__Read More...__](blog/posts/news-funko-deluxe.md)
 
 </div>
