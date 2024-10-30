@@ -16,6 +16,8 @@ theme:
     navigation.tabs.sticky
     navigation.top
   custom_dir: overrides
+  icon:
+    annotation: material/alert-circle
 plugins:
   - blog:
       blog_dir: blog
@@ -27,6 +29,7 @@ plugins:
 markdown_extensions:
   - admonition
   - attr_list
+  - footnotes
   - md_in_html
   - pymdownx.critic
   - pymdownx.caret
