@@ -16,13 +16,13 @@ The unofficial fansite for all things Avatar!
 
 <div class="grid cards" markdown>
 
--   :sparkles: __NEW__{ .lg .middle } <br>"The Saga of Okino" (Fan Novel)
+-   :sparkles: __NEW__{ .lg .middle } <br>Blog Post
 
     ---
 
-    Landing page, preface, and Chapter 1 published!
+    "How to Draw" Book & More from Penguin Random House!
 
-    [__Read More...__](projects/fan-novel/index.md)
+    [__Read More...__](blog/posts/news-how-to-draw-book.md)
 
 -   :sparkles: __NEW__{ .lg .middle } <br>Blog Post
 
@@ -31,5 +31,13 @@ The unofficial fansite for all things Avatar!
     Avatar Deluxe Funko Figures
 
     [__Read More...__](blog/posts/news-funko-deluxe.md)
+
+-   :sparkles: __NEW__{ .lg .middle } <br>"The Saga of Okino" (Fan Novel)
+
+    ---
+
+    Landing page, preface, and Chapter 1 published!
+
+    [__Read More...__](projects/fan-novel/index.md)
 
 </div>
