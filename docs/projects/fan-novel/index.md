@@ -5,7 +5,7 @@ hide:
   - footer
 ---
 
-# The Saga of Okino
+# :closed_book: The Saga of Okino
 
 > Journey far into the past with Okino, a young Fire Nation boy born into a lineage of dragon caretakers.
 > 

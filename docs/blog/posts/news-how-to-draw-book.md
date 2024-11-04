@@ -43,7 +43,6 @@ __Listing Info__:
 - Expected release date: July 1st, 2025
 - ISBN: 9798217025824
 - Target age: 7-10 years
-- Page Count: 
 - Illustrations by: [Patrick Spaziante](https://www.penguinrandomhouse.com/authors/102907/patrick-spaziante/) (1)
 </div>
 

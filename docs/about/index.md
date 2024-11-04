@@ -99,7 +99,7 @@ Below are some tabs to better understand this space :smile:
 
         This site is simply a labor of love & passion - I do not seek to earn money with this, and respectfully decline any monetary contributions.
     
-    ??? abstract "Do you have any site policies, such as copyright notices, fair use statements, etc...?"
+    ??? abstract "Do you have any site-wide policies, such as copyright notices, fair use statements, etc...?"
 
         Yes! You can find it under the Disclaimer tab on this page.
         
@@ -119,12 +119,35 @@ Below are some tabs to better understand this space :smile:
         Please keep in mind, the above is an attempt to capture the thought process. Canon discussions are bound to happen and so I purposely want to keep this answer open-ended.
 
         From a wiki perspective, content will be divided by media type. For example, if covering a location seen across series, novels, games, and more... each of those instances will be a subpage grouped under the location name. With this, there is not a direct label of "canon" but simply a list of different representations.
+    
+    ??? abstract "I see a 'Content Notice' block on a wiki page - what is that about?"
+
+        Under the wiki space, you will likely come across "Content Notice" blocks on select pages.
+
+        Hugely passionate (and talented!) Avatar fans have gathered information about the Avatar franchise over the years. As this site is a solo endeavor, manually re-sourcing all that information about Avatar would be a near-impossible task. Instead of "recreating the wheel" I am luckily able to rely on such community contributions to more quickly create pages upfront.
+        
+        This allows for more time to:
+
+        - Polish how content is presented
+        - Add new information
+        - Improve page links and data sources
+        - Refine the browsing experience
+        - Provide a clear jumping-in point for new fans
+        - Expand pages per user interest (ex: guides for Avatar games, reading order for comics, etc...)
+
+        For the Avatar Fandom Wiki, they allow the reuse of wiki content on other sites as long as certain requirements are met. This is achieved through the "Content Notice" blocks by:
+        
+        1. Providing credit via hyperlink to the respective Avatar wiki pages
+        2. Granting the same licensing
+        3. Linking to their copyright page (as good measure)
+
+        > [Avatar Wiki Copyrights](https://avatar.fandom.com/wiki/Avatar_Wiki:Copyrights) page last reviewed on 11/04/2024
 
 === "Discord"
 
     Come join the F&S Discord server - it's an awesome community :smile:
 
-    [Fan & Sword Discord](https://discord.gg/tgCDP8vj){ .md-button .md-button--primary }
+    [Fan & Sword Discord](https://discord.gg/Hed6g6TfuP){ .md-button .md-button--primary }
 
     It's simply a love for Avatar that brings us all together, and we love making new friends!
 
@@ -169,6 +192,6 @@ Below are some tabs to better understand this space :smile:
 
     ### Contact Information
 
-    > If you believe that any content on this site infringes upon your copyright, please reach out to [your contact email] so that those concerns may be addressed promptly. 
+    > If you believe that any content on this site infringes upon your copyright, please notify via the community Discord so that those concerns may be addressed promptly. 
     >
     > If something needs to be pulled or changed with valid reasoning, I am more than happy to do so!
