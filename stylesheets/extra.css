@@ -1,0 +1,11 @@
+/* Expand the size of the logo */
+.md-header__button.md-logo img, .md-header__button.md-logo svg {
+    height: 5rem;
+    width: 5rem;
+}
+
+[data-md-color-scheme="fans"] {
+    --md-primary-fg-color: #009688;
+    --md-accent-fg-color: #aa9249;
+}
+
