@@ -67,21 +67,12 @@ Below are some tabs to better understand this space :smile:
 
         In short, I'm planning:
         
-        - Blog space (for news, rumors, thoughts, reviews, etc...)
+        - Blog space (for discussion, reviews, etc...)
         - Project space (personal projects such as fan novel, Lego builds, etc...)
-        - Wiki space (my own, little spin on organizing Avatar knowledge)
         - As well as...
             - Highlighting cool things from the Avatar community
             - Offering guides, recommendations, and more for Avatar games
             - Supporting a Discord server for this site
-
-    ??? abstract "Can I contribute and/or is there a community?"
-
-        In a way, yes! You can join the Fan & Sword Discord server.
-        
-        There, you'll be able to connect with other enthusiasts and provide feedback for the site.
-        
-        The site will not be directly edit-able though as I still would like to keep it a passion project, but I am very open to suggestions as we build an awesome community!
     
     ??? abstract "Where can I stream, read, etc... (insert media) on this site?"
 
@@ -105,44 +96,6 @@ Below are some tabs to better understand this space :smile:
         
         Please refer here: (add link to disclaimer tab)
 
-    ??? abstract "What is considered canon?"
-
-        The subject of "canon or not" walks a fine line, and as an unofficial Avatar site, none of the content here is meant to be a definitive judge on it.
-
-        The general line of reasoning is this:
-
-        - The TV series' are the best metrics of canon
-        - Novels, comics, and other official, textual publications that do not conflict with series events are also considered canon, unless otherwise stated.
-        - Media with heavy contradictions to the above 2 items range from less-canon to non-canon.
-        - Interviews with Bryke, official statements, and similar communications that address canonicity of specific content may override any of the above.
-
-        Please keep in mind, the above is an attempt to capture the thought process. Canon discussions are bound to happen and so I purposely want to keep this answer open-ended.
-
-        From a wiki perspective, content will be divided by media type. For example, if covering a location seen across series, novels, games, and more... each of those instances will be a subpage grouped under the location name. With this, there is not a direct label of "canon" but simply a list of different representations.
-    
-    ??? abstract "I see a 'Content Notice' block on a wiki page - what is that about?"
-
-        Under the wiki space, you will likely come across "Content Notice" blocks on select pages.
-
-        Hugely passionate (and talented!) Avatar fans have gathered information about the Avatar franchise over the years. As this site is a solo endeavor, manually re-sourcing all that information about Avatar would be a near-impossible task. Instead of "recreating the wheel" I am luckily able to rely on such community contributions to more quickly create pages upfront.
-        
-        This allows for more time to:
-
-        - Polish how content is presented
-        - Add new information
-        - Improve page links and data sources
-        - Refine the browsing experience
-        - Provide a clear jumping-in point for new fans
-        - Expand pages per user interest (ex: guides for Avatar games, reading order for comics, etc...)
-
-        For the Avatar Fandom Wiki, they allow the reuse of wiki content on other sites as long as certain requirements are met. This is achieved through the "Content Notice" blocks by:
-        
-        1. Providing credit via hyperlink to the respective Avatar wiki pages
-        2. Granting the same licensing
-        3. Linking to their copyright page (as good measure)
-
-        > [Avatar Wiki Copyrights](https://avatar.fandom.com/wiki/Avatar_Wiki:Copyrights) page last reviewed on 11/04/2024
-
 === "Discord"
 
     Come join the F&S Discord server - it's an awesome community :smile:
@@ -156,7 +109,7 @@ Below are some tabs to better understand this space :smile:
 
     ### Fan & Sword Unofficial Fansite
 
-    > This wiki site is a solo, fan-created, unofficial space dedicated to Avatar: The Last Airbender, including its shows, books, comics, games, merchandise, and other related content. It is not affiliated with Avatar Studios, Nickelodeon, Viacom International, Paramount+, or any other official entity connected with the creation or distribution of Avatar: The Last Airbender.
+    > This site is a solo, fan-created, unofficial space dedicated to Avatar: The Last Airbender, including its shows, books, comics, games, merchandise, and other related content. It is not affiliated with Avatar Studios, Nickelodeon, Viacom International, Paramount+, or any other official entity connected with the creation or distribution of Avatar: The Last Airbender.
 
     > The site does not claim to be official in any capacity, as noted by the use of "Unofficial" in the site's subtitle, homepage description, and per this Disclaimer subpage.
 
@@ -195,3 +148,9 @@ Below are some tabs to better understand this space :smile:
     > If you believe that any content on this site infringes upon your copyright, please notify via the community Discord so that those concerns may be addressed promptly. 
     >
     > If something needs to be pulled or changed with valid reasoning, I am more than happy to do so!
+
+---
+
+## Last Reviewed
+
+|:pencil:|03/24/2025|

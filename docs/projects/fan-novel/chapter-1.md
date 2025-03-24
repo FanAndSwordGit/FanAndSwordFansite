@@ -84,6 +84,6 @@ The resulting blaze grew in intensity, sparks flying in every direction.
 
 ---
 
-### Last Reviewed
+## Last Reviewed
 
 |:pencil:|10/28/2024|

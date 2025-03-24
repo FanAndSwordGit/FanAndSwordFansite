@@ -24,6 +24,14 @@ This is a showcase of personal Avatar-inspired projects, all home-grown! :smile:
 
     <b>[:octicons-arrow-right-24: Read On!](fan-novel/index.md)</b>
 
+-   :white_check_mark:{ .lg .middle } __Collector's Corner__
+
+    ---
+
+    20+ years of Avatar = tons of media, content, merch, and so on! This is an ever-growing list of all things Avatar-collecting (nothing affiliate or promotional, purely useful :smile:)
+
+    <i>(Nothing here yet)</i>
+
 -   :video_game:{ .lg .middle } __The Digital Cardbending Game__
 
     ---
@@ -41,3 +49,5 @@ This is a showcase of personal Avatar-inspired projects, all home-grown! :smile:
     <i>(Nothing here yet)</i>
 
 </div>
+
+> None of these are official or for profit.

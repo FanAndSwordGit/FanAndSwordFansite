@@ -14,6 +14,6 @@ I am not a professional writer by any means - I have never written a book or tak
 
 ---
 
-### Last Reviewed
+## Last Reviewed
 
 |:pencil:|10/27/2024|
